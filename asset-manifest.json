@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-bootstrap_formik_yup-forms/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-bootstrap_formik_yup-forms/static/js/main.3107d662.chunk.js",
+    "main.js.map": "/react-bootstrap_formik_yup-forms/static/js/main.3107d662.chunk.js.map",
+    "runtime-main.js": "/react-bootstrap_formik_yup-forms/static/js/runtime-main.ff379ace.js",
+    "runtime-main.js.map": "/react-bootstrap_formik_yup-forms/static/js/runtime-main.ff379ace.js.map",
+    "static/css/2.c490997a.chunk.css": "/react-bootstrap_formik_yup-forms/static/css/2.c490997a.chunk.css",
+    "static/js/2.03f78c50.chunk.js": "/react-bootstrap_formik_yup-forms/static/js/2.03f78c50.chunk.js",
+    "static/js/2.03f78c50.chunk.js.map": "/react-bootstrap_formik_yup-forms/static/js/2.03f78c50.chunk.js.map",
+    "static/js/3.ab638814.chunk.js": "/react-bootstrap_formik_yup-forms/static/js/3.ab638814.chunk.js",
+    "static/js/3.ab638814.chunk.js.map": "/react-bootstrap_formik_yup-forms/static/js/3.ab638814.chunk.js.map",
+    "index.html": "/react-bootstrap_formik_yup-forms/index.html",
+    "static/css/2.c490997a.chunk.css.map": "/react-bootstrap_formik_yup-forms/static/css/2.c490997a.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-bootstrap_formik_yup-forms/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.03f78c50.chunk.js.LICENSE.txt": "/react-bootstrap_formik_yup-forms/static/js/2.03f78c50.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff379ace.js",
+    "static/css/2.c490997a.chunk.css",
+    "static/js/2.03f78c50.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.3107d662.chunk.js"
+  ]
+}
